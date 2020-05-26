@@ -1,12 +1,12 @@
 var firebaseConfig = {
-    apiKey: "AIzaSyD7BP8vociSYyuz9Q2DGQvzXbAO6UcZxXk",
-    authDomain: "crud-9614f.firebaseapp.com",
-    databaseURL: "https://crud-9614f.firebaseio.com",
-    projectId: "crud-9614f",
-    storageBucket: "crud-9614f.appspot.com",
-    messagingSenderId: "98904622366",
-    appId: "1:98904622366:web:08865f7ae607cfc2bab50f",
-    measurementId: "G-PEQ87YJ897"
+    apiKey: "XXXXXXXXXXXXXXXXXXXXXX",
+    authDomain: "XXXXXXXXXXXXXXXXXXXXXX",
+    databaseURL: "XXXXXXXXXXXXXXXXXXXXXX",
+    projectId: "XXXXXXXXXXXXXXXXXXXXXX",
+    storageBucket: "XXXXXXXXXXXXXXXXXXXXXX",
+    messagingSenderId: "XXXXXXXXXXXXXXXXXXXXXX",
+    appId: "XXXXXXXXXXXXXXXXXXXXXX",
+    measurementId: "XXXXXXXXXXXXXXXXXXXXXX"
 };
 
 firebase.initializeApp(firebaseConfig);
